@@ -155,3 +155,31 @@ body {
         flex: 1;
     }
 }
+
+/**** Responsive design version mobile ****/
+
+@media screen and (max-width: 767px) {
+    body {
+        padding: 30px;
+    }
+
+    .footer__list {
+        justify-content: center;
+    }
+
+    .container__article--2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container__article__title,
+    .container__article__text {
+        text-align: center;
+    }
+
+    .container__article__title {
+        font-size: 26px;
+    }
+}

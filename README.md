@@ -8,7 +8,7 @@ Voici ma solution au challenge Frontend Mentor - Huddle landing page with single
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/frontend_mentor_huddle_simple_landing_page/
 
 ## Projet développé avec
 

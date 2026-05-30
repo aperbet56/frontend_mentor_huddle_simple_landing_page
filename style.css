@@ -142,3 +142,16 @@ body {
 .footer__list a:hover {
     border: none;
 }
+
+/**** Responsive design version tablette ****/
+
+@media screen and (max-width: 1080px) {
+    .main__container {
+        flex-direction: column;
+    }
+
+    .container__article--1,
+    .container__article--2 {
+        flex: 1;
+    }
+}
